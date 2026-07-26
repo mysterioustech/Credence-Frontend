@@ -2,11 +2,10 @@ node_modules
 dist
 *.local
 .DS_Store
-.env
-.env.*
 !.env.example
 coverage
 
 *storybook.log
 storybook-static
 .opencode
+config.bat
